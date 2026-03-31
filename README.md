@@ -28,3 +28,7 @@ reports/ → Power BI dashboard
 ## Preview
 
 ![Morosidad por Estado](reports/morosidad_por_estado.png)
+
+## Dashboard Preview
+
+![Dashboard Riesgo Crediticio](reports/dashboard_preview.png)
