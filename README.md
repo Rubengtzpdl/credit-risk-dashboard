@@ -23,7 +23,7 @@ scripts/ → automated pipeline
 reports/ → Power BI dashboard
 
 ## Status
-🚧 In progress
+In progress
 
 ## Preview
 
