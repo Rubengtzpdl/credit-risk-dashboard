@@ -5,9 +5,9 @@ df = pd.read_excel("data/processed/cartera_limpia.xlsx")
 
 # Colores por zona de riesgo
 colores = {
-    "Riesgo Bajo": "#2ecc71",
-    "Riesgo Medio": "#f39c12",
-    "Riesgo Alto": "#e74c3c"
+    "Riesgo Bajo": "verde",
+    "Riesgo Medio": "naranja",
+    "Riesgo Alto": "rojo"
 }
 
 df_sorted = df.sort_values("indice_morosidad", ascending=True)
