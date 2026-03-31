@@ -21,5 +21,5 @@ df["zona_riesgo"] = df["indice_morosidad"].apply(clasificar_riesgo)
 # Guardar datos procesados
 df.to_excel("data/processed/cartera_limpia.xlsx", index=False)
 
-print("✅ Datos procesados correctamente")
+print("Datos procesados correctamente")
 print(df[["entidad", "indice_morosidad", "zona_riesgo"]])
