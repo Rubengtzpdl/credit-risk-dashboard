@@ -24,3 +24,7 @@ reports/ → Power BI dashboard
 
 ## Status
 🚧 In progress
+
+## Preview
+
+![Morosidad por Estado](reports/morosidad_por_estado.png)
