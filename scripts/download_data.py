@@ -15,5 +15,5 @@ data = {
 
 df = pd.DataFrame(data)
 df.to_excel("data/raw/cartera_credito.xlsx", index=False)
-print("✅ Dataset generado correctamente")
+print("Dataset generado correctamente")
 print(df)
