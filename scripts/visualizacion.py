@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 df = pd.read_excel("data/processed/cartera_limpia.xlsx")
 
-# Colores por zona de riesgo
+
 colores = {
     "Riesgo Bajo": "verde",
     "Riesgo Medio": "naranja",
